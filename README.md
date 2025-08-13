@@ -9,17 +9,6 @@
 
 - 📫 How to reach me: **abdallahelsaday18@gmail.com**
 
-<style>
-  .social-icon {
-    transition: transform 0.3s ease;
-    cursor: pointer;
-  }
-
-  .social-icon:hover {
-    transform: scale(1.1);
-  }
-</style>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/abdallah-wael-el-saadany" target="_blank" rel="noopener noreferrer">
